@@ -1,0 +1,4 @@
+= About
+
+Algorithms practice based on _https://mitpress.mit.edu/books/introduction-algorithms[Introduction to Algorithms]_.
+
