@@ -41,4 +41,5 @@ In the traveling-salesman problem we need to find _multiple paths_ between two n
 
 1.1-5:: _Come up with a real-world problem in which only the best solution will do. Then come up with one in which a solution that is "`approximately`" the best is good enough._
 +
-...
+* While trying to improve an existing compression method the goal is to create an algorithm that compresses correctly (as its predecessor) _and_ that costs less to execute (takes less time, uses less CPU, needs less IO operations). In such a case only the "`best`" solution is enough.
+* In a scenario where a company needs to haul an important package from one location to another before a deadline a "`good-enough`" solution is enough. The "`best`" solution would the one that requires the least amount of time and money. It's easy to find solutions, but it's really complicated to decide if a particular solution is "`the`" best. The first solution that satisfies requirements (gets the package from A to B in time and cost less then the available funds) is "`good enough`".
